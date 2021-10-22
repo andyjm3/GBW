@@ -5,6 +5,6 @@ Applications include 1) Riemannian optimization for log-det maximization and Gau
 
 To run the code, you need to download the manopt toolbox from https://www.manopt.org/ and place it in the same parent folder.
 
-If you find the code useful, please kindly cite the following paper:
+If you find the code useful, please kindly cite the following paper: arXiv:2110.10464.
 
 
